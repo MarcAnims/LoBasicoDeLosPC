@@ -38,7 +38,7 @@
             overflow-x: hidden;
             border:10px double black;
             margin:auto;
-            }
+            } 
             
 
             #Bordesimagenes {border: 6px groove black;
